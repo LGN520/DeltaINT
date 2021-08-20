@@ -1,10 +1,13 @@
 # DeltaINT
 
 ---
+
 ## Paper
+
 **Siyuan Sheng, Qun Huang, Patrick P. C. Lee.**
 DeltaINT: Toward General In-band Network Telemetry with Extremely Low Bandwidth Overhead.
-*ICNP 2021*
+*ICNP, 2021.*
+
 ---
 
 ## Content
